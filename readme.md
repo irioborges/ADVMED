@@ -1,5 +1,7 @@
 <h1>RESPOSTAS PARTE B</h1>
 
+http://advmed.piramidesistemas.com.br/web/ (link para interface gráfica do CRUD - Bônus!)
+
 1. Operações disponiveis:
 
 1.1 - Lista todos anunciantes através da url:</br>

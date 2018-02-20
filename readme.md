@@ -10,4 +10,9 @@
   Esta operação esta disponível no arquivo: controllers\AnunciantesRest.php
   
   Não consegui fazer todas as operações do CRUD, pois deu um erro no meu Yii :/, mas é perfeitamente possível fazer todas as operações do CRUD através dele, inclusive disponibilizando os dados através de JSON, ao invés de XML como eu fiz.
+  </br></br>
+
+2. (Não fiz pois meu Yii não está fazendo método de POST na minha API);
+3. (Não fiz pois meu Yii não está fazendo método de PATCH) ;
+4. Em desenvolvimento...
   

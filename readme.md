@@ -14,5 +14,5 @@
 
 2. (Não fiz pois meu Yii não está fazendo método de POST na minha API);
 3. (Não fiz pois meu Yii não está fazendo método de PATCH) ;
-4. Em desenvolvimento...
+4. Não implementei, mas é possível implementar fazendo um select na tabela de anuncios, where 
   

@@ -2,10 +2,10 @@
 
 1. Operações disponiveis:
 
-Lista todos anunciantes através da url:
-  http://advmed.piramidesistemas.com.br/web/index.php?r=anunciantesrest
-Lista anunciante específico através da url(neste caso 2 é o id do anunciante):
-  http://advmed.piramidesistemas.com.br/web/index.php?r=anunciantesrest/view&id=2
+1.1 - Lista todos anunciantes através da url:</br>
+  http://advmed.piramidesistemas.com.br/web/index.php?r=anunciantesrest </br>
+1.2 - Lista anunciante específico através da url(neste caso 2 é o id do anunciante): </br>
+  http://advmed.piramidesistemas.com.br/web/index.php?r=anunciantesrest/view&id=2 </br>
   
   Esta operação esta disponível no arquivo: controllers\AnunciantesRest.php
   

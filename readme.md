@@ -14,5 +14,5 @@
 
 2. (Não fiz pois meu Yii não está fazendo método de POST na minha API);
 3. (Não fiz pois meu Yii não está fazendo método de PATCH) ;
-4. Em andamento...
+4. É possível fazer a implementação desta funcionalidade fazendo um select na tabela anuncios where ativo = 1. Com o retorno é possível fazer um foreach buscando os anunciantes que estão ativos. É possível fazer o retorno deste método em um JSON.
   
